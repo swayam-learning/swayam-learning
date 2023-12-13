@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello there! I'm Swayam Swarup Barik, an enthusiastic undergraduate student pursuing a degree in Computer Science Engineering, with a keen interest in the fascinating realms of Machine Learning and Data Science. 🚀
+I'm Swayam Swarup Barik, an enthusiastic undergraduate student pursuing a degree in Computer Science Engineering, with a keen interest in the fascinating realms of Machine Learning and Data Science. 🚀
 
 🧠 My academic journey has been a thrilling exploration of algorithms, artificial intelligence, and the ever-evolving landscape of technology. I am passionate about harnessing the power of data to uncover meaningful insights and drive innovation.
 
