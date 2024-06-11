@@ -29,5 +29,6 @@ I'm Swayam Swarup Barik, an enthusiastic undergraduate student pursuing a degree
 🔗 Let's connect and collaborate! I'm open to discussions, learning opportunities, and exploring exciting projects that align with my interests. Feel free to explore my repositories and reach out – together, we can build something amazing!
 
 📫 How to reach me: swayamswarupbarik25@gmail.com
-[![swayam-learning's GitHub | Stats](https://stats.quine.sh/swayam-learning/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swayam-learning)
+
 Happy coding! 🚀👨‍💻
+[![swayam-learning's GitHub | Languages Over Time](https://stats.quine.sh/swayam-learning/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swayam-learning)
