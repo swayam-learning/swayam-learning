@@ -30,21 +30,9 @@ I'm Swayam Swarup Barik, an enthusiastic undergraduate student pursuing a degree
 
 📫 How to reach me: swayamswarupbarik25@gmail.com
 
-Happy coding! 🚀👨‍💻
-
-
-
-
-
-
-
-
+Happy coding! 
 
 [![swayam-learning's GitHub | Languages Over Time](https://stats.quine.sh/swayam-learning/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swayam-learning)
-
-
-
-
 
 
  <picture>
