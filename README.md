@@ -41,3 +41,14 @@ Happy coding! 🚀👨‍💻
 
 
 [![swayam-learning's GitHub | Languages Over Time](https://stats.quine.sh/swayam-learning/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swayam-learning)
+
+
+
+
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swayam-learning/swayam-learning/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/swayam-learning/swayam-learning/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/swayam-learning/swayam-learning/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
