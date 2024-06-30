@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <table align="left">
   <tr>
     <td style="padding: 0 20px;">
-      <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
+      <a href="mailto:swayamswarupbarik25@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="30" height="40"/>
       </a>
     </td>
