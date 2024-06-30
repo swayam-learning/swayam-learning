@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 <!--
 **swayam-learning/swayam-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,23 +96,27 @@ Here are some ideas to get you started:
   <tr>
     <td style="padding: 0 20px;">
       <a href="mailto:swayamswarupbarik25@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="30" height="40"/>
+        <img src="https://github.com/swayam-learning/swayam-learning/assets/112764699/a8499cab-19a1-48ab-833a-6da0271dffeb" alt="gmail" width="40" height="40"/>
       </a>
     </td>
     <td style="padding: 0 20px;">
       <a href="https://twitter.com/swarup_barik25" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swarup_barik25" height="40" width="40" />
+        <img align="center" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="swarup_barik25" height="40" width="40" />
       </a>
     </td>
     <td style="padding: 0 20px;">
       <a href="https://linkedin.com/in/swayam-swarup-barik-51962024a" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayam-swarup-barik-51962024a" height="30" width="40" />
+        <img align="center" src="https://github.com/swayam-learning/swayam-learning/assets/112764699/c57c47dc-5438-48dd-adfa-0ead1ce9b8ca" height="40" width="40" />
       </a>
     </td>
     <td style="padding: 0 20px;">
       <a href="https://instagram.com/unplannedfortunes" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unplannedfortunes" height="30" width="40" />
+        <img align="center" src="https://github.com/swayam-learning/swayam-learning/assets/112764699/4874847f-08d7-4c8a-92ef-2693389a69e7" alt="unplannedfortunes" height="40" width="40" />
       </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
