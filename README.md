@@ -28,15 +28,16 @@ Here are some ideas to get you started:
 🔗 Let's connect and collaborate! I'm open to discussions, learning opportunities, and exploring exciting projects that align with my interests. Feel free to explore my repositories and reach out – together, we can build something amazing! </p>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20 px;">
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1;>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=swayam-learning" alt="swayam-learning" />
     </a> 
   </div>
-  <div style="flex: 1; margin-left: 10px;">
+  <h2 align="left">Languages and Tools:</h2>
+  <div style="flex: 2; >
     <!-- Add your second block here -->
-<h3 align="left" style="margin-top: 20px;">Languages and Tools:</h3>
-<p align="left"> 
+
+<p align="left";> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -69,10 +70,16 @@ Here are some ideas to get you started:
 </p>    
   </div>
 </div>
-    
 
-<!-- [![swayam-learning's GitHub | Languages Over Time](https://stats.quine.sh/swayam-learning/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swayam-learning) -->
-<img src="https://myreadme.vercel.app/api/embed/swayam-learning?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<div> 
+  <p>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="800px" height="400px">
+</p>
+</div>
+
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swayam-learning/swayam-learning/blob/output/github-contribution-grid-snake-dark.svg">
