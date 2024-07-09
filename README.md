@@ -75,13 +75,22 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div> 
-  <p>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="900px" height="400px"></a>
-</p>
+<div align="center">
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <a href="https://stats.dooboo.io">
+          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="800px" height="400px">
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://stats.dooboo.io">
+          <img src="https://github-readme-stats.vercel.app/api?username=swayam-learning&show_icons=true&theme=radical" width="580px" height="300px">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 
 
