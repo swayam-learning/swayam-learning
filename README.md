@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     <tr style="border: none; padding: 0; margin: 0;">
       <td style="border: none; padding: 0; margin: 0;">
         <a href="https://stats.dooboo.io">
-          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="700px" height="500px">
+          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="700px" height="400px">
         </a>
       </td>
       <td style="border: none; padding: 0; margin: 0;">
