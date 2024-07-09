@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       </td>
       <td style="border: none; padding: 0; margin: 0;">
         <a href="https://stats.dooboo.io">
-          <img src="https://github-readme-stats.vercel.app/api?username=swayam-learning&show_icons=true&theme=radical" width="580px">
+          <img src="https://github-readme-stats.vercel.app/api?username=swayam-learning&show_icons=true&theme=radical" width="380px">
         </a>
       </td>
     </tr>
