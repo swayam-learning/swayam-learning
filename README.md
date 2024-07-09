@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <div align="center">
         <a href="https://stats.dooboo.io">
-          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="800px" height="500px">
+          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="800px" height="450px">
         </a>
 </div>
 
@@ -116,6 +116,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<p align="center">
+<p align="center style="margin-top: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
