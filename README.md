@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <div> 
   <p>
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="800px" height="400px">
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="900px" height="400px"></a>
 </p>
 </div>
 
