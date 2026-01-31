@@ -75,7 +75,7 @@ I’m <b>Swayam Swarup Barik </b>, a Computer Science Engineering undergraduate 
   <img alt="github-snake" src="https://github.com/swayam-learning/swayam-learning/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<h3 align="left">Contact Me:</h3>
+<!-- <h3 align="left">Contact Me:</h3>
 <table align="left">
   <tr>
     <td style="padding: 0 20px;">
@@ -99,7 +99,7 @@ I’m <b>Swayam Swarup Barik </b>, a Computer Science Engineering undergraduate 
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center style="margin-top: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
