@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+
 <!--
 **swayam-learning/swayam-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -115,6 +116,16 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<p>
+  
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zeC84on9juZnb5lH4QAWfOVhpxAKx3Xn?view=active&theme=dark)
+
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
+</p>
 
 <p align="center style="margin-top: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
