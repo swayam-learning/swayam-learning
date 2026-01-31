@@ -7,7 +7,7 @@
 I’m <b>Swayam Swarup Barik </b>, a Computer Science Engineering undergraduate with a strong interest in Machine Learning, Data Science, and the intersection of technology and finance. I previously worked as a Intern at IIT Kharagpur, where I contributed to building NLP-based intelligent chatbots using Transformers and RAG architectures. I enjoy working with data-driven projects, turning insights into impact, and continuously learning through real-world problem solving. Open to collaboration and meaningful discussions.
 </p>
   
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zeC84on9juZnb5lH4QAWfOVhpxAKx3Xn?view=active&theme=dark&width=1000)
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zeC84on9juZnb5lH4QAWfOVhpxAKx3Xn?view=active&theme=dark&width=900)
 
 <!-- Optional parameters:
   - view: range | first | active (default: range)
