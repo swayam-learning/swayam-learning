@@ -3,39 +3,25 @@
 </p>
 
 
-<!--
-**swayam-learning/swayam-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I’m <b>Swayam Swarup Barik </b>, a Computer Science Engineering undergraduate with a strong interest in Machine Learning, Data Science, and the intersection of technology and finance. I previously worked as a Intern at IIT Kharagpur, where I contributed to building NLP-based intelligent chatbots using Transformers and RAG architectures. I enjoy working with data-driven projects, turning insights into impact, and continuously learning through real-world problem solving. Open to collaboration and meaningful discussions.
+</p>
+  
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zeC84on9juZnb5lH4QAWfOVhpxAKx3Xn?view=active&theme=dark&width=1000)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
 -->
+</p>
 
-<p> I'm Swayam Swarup Barik, an enthusiastic undergraduate student pursuing a degree in Computer Science Engineering, with a keen interest in the fascinating realms of Machine Learning and Data Science. 🚀
-
-🧠 My academic journey has been a thrilling exploration of algorithms, artificial intelligence, and the ever-evolving landscape of technology. I am passionate about harnessing the power of data to uncover meaningful insights and drive innovation.
-
-💻 In addition to my love for code, I am intrigued by the intersection of technology and finance. Exploring the dynamic world of financial markets and understanding how computers play a pivotal role in shaping these landscapes is a puzzle I'm eager to solve.
-
-🌐 You'll find a diverse array of projects in my repository, reflecting my curiosity and dedication to continuous learning. Whether it's diving into machine learning models, data visualization, or exploring the intricacies of financial algorithms, I'm always up for a coding adventure.
-
-📚 Currently, I'm delving into the intricacies of how markets operate, combining my technical skills with a broader understanding of the financial ecosystem. I believe that this interdisciplinary approach is key to creating innovative solutions that bridge the gap between technology and finance.
-
-🔗 Let's connect and collaborate! I'm open to discussions, learning opportunities, and exploring exciting projects that align with my interests. Feel free to explore my repositories and reach out – together, we can build something amazing! </p>
-
-<div style="display: flex; justify-content: space-between; margin-top: 20 px;">
+<!-- <div style="display: flex; justify-content: space-between; margin-top: 20 px;">
   <div style="flex: 1;>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=swayam-learning" alt="swayam-learning" />
     </a> 
-  </div>
+  </div> -->
   <h2 align="left">Languages and Tools:</h2>
   <div style="flex: 2; >
 <p align="left";> 
@@ -78,11 +64,9 @@ Here are some ideas to get you started:
 
 <div align="center">
         <a href="https://stats.dooboo.io">
-          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="800px" height="450px">
+          <img src="https://stats.dooboo.io/api/github-stats-advanced?login=swayam-learning" width="1000px" height="340px">
         </a>
 </div>
-
-
 
 
 <picture>
@@ -116,16 +100,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<p>
-  
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zeC84on9juZnb5lH4QAWfOVhpxAKx3Xn?view=active&theme=dark)
-
-<!-- Optional parameters:
-  - view: range | first | active (default: range)
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
-  - width: 400-1200 (default: 800)
--->
-</p>
 
 <p align="center style="margin-top: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
